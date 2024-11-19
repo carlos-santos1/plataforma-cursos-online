@@ -1,0 +1,12 @@
+# Arquivos de sistema
+.DS_Store
+
+# Node.js
+node_modules/
+build/
+.env
+
+# Java
+*.class
+*.jar
+/target/
